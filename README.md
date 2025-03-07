@@ -1,6 +1,3 @@
-Here is your updated **README file**, incorporating the key insights from the analysis:  
-
----
 
 # **README: Power BI Internship - Cognifyz**  
 
